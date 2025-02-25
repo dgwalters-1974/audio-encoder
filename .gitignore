@@ -4,6 +4,7 @@ venv
 .cache
 harvard.wav
 play.ipynb
+*.pt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
